@@ -56,7 +56,9 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitheTrunk&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </p>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/GitheTrunk/GitheTrunk/main/profile-3d-contrib/profile-blue.svg" width="100%" />
+</p>
 
 ---
 
